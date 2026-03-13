@@ -41,13 +41,13 @@ figure; stem(k,ak); grid on; %[output:0f2d0c44]
 %[text] 등차 수열의 합: $s\_n = \\frac{n}{2} (a\_1 + a\_n)$
 %[text] 이 공식들을 A님에게 설명해 주세요. 수식을 더블-클릭해 보세요. 
 %[text] 아래 첨자는 LaTeX으로 어떻게 표현하나요?
-%[text] - 설명:  \\$a\_n  = a\_1 + (n-1)d\\$  |  \\$\\frac{n}{2}(a\_1+a\_n)\\$ \
+%[text] - 설명:  \\$a\_n  = a\_1 + (n-1)d\\$  |  \\$\\frac{n}{2}(a\_1+a\_n)\\$  \
 %[text] 분수는LaTeX으로 어떻게 나타내나요?
 %[text] - 설명: \\$\\frac{분자}{분모}\\$ \
 %[text] 등차 수열의 합 Sn1을 위 공식을 이용해서 Matlab으로 계산하기 위한 다음 코드를 A님에게 설명해 주세요.
 Sn1 = n/2*(ak(1)+ak(n)) %[output:01db66ee]
 %[text] 위에서 계산한 Sn값과 비교해 보세요.
-%[text] - 설명:  \
+%[text] - 설명: Sn = Sn1 즉, Sn1은 등차수열의 합 공식이다. \
 %%
 %[text] %[text:anchor:H_B60D5FA1] ## 등차 수열의 곱
 %[text] 이번에는 다시 A님이 B님에게 설명할 차례입니다.
