@@ -1,3 +1,4 @@
+%[text] # 
 %[text] # 3주차 수업
 %[text] ## Column Permutation
 a = [1 4 7; 2 5 8; 3 6 9] %[output:7afdee28]
